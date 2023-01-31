@@ -2,4 +2,8 @@ dfdfdf
 dfdfdfddfdfdfdfdfd
 
 dfdfdaewewsawe
+<<<<<<< HEAD
 여기는 쿠폰이 없지롱
+=======
+여기는 쿠폰쿠폰
+>>>>>>> coupon
